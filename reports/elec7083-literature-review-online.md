@@ -1,6 +1,6 @@
 # ELEC7083 Distributed Systems — Literature Review
 
-[Back to portfolio](https://github.com/xikun1/HKU-Research-Visualization-Portfolio) · [Download PDF](https://github.com/xikun1/HKU-Research-Visualization-Portfolio/raw/refs/heads/main/reports/elec7083-distributed-systems-literature-review.pdf)
+[Back to portfolio](https://github.com/xikun1/HKU-Research-Visualization-Portfolio) · [Download PDF](https://github.com/xikun1/HKU-Research-Visualization-Portfolio/releases/download/coursework-pdfs/elec7083-distributed-systems-literature-review.pdf)
 
 Select any page to view it at full size.
 

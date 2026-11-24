@@ -12,7 +12,7 @@ Select any figure to view it at full size.
 
 Our review connects clock synchronization, asynchronous state recovery and spatial alignment in multi-drone search and rescue. It traces how the literature moves from compensating for timing and position errors to planning trajectories that help prevent them. I contributed to the literature review, manuscript drafting and scientific figures.
 
-**[Read the full literature review online](reports/elec7083-literature-review-online.md)** · [Download PDF](https://github.com/xikun1/HKU-Research-Visualization-Portfolio/raw/refs/heads/main/reports/elec7083-distributed-systems-literature-review.pdf)
+**[Read the full literature review online](reports/elec7083-literature-review-online.md)** · [Download PDF](https://github.com/xikun1/HKU-Research-Visualization-Portfolio/releases/download/coursework-pdfs/elec7083-distributed-systems-literature-review.pdf)
 
 ### How clock drift affects collaborative perception
 
@@ -36,7 +36,7 @@ The timeline traces five generations of spatial alignment techniques. It shows h
 
 I ran the course's energy hub optimization model and added parameter sweeps to compare costs across price assumptions, representative-day counts and equipment configurations. The experimental results show when changes in model inputs affect operating costs, equipment investment or both.
 
-**[Read the full experiment report (PDF)](reports/elec7011-energy-internet-experiment-report.pdf)** · [Download PDF](https://github.com/xikun1/HKU-Research-Visualization-Portfolio/raw/refs/heads/main/reports/elec7011-energy-internet-experiment-report.pdf)
+**[Read the full experiment report online](reports/elec7011-experiment-report-online.md)** · [Download PDF](https://github.com/xikun1/HKU-Research-Visualization-Portfolio/releases/download/coursework-pdfs/elec7011-energy-internet-experiment-report.pdf)
 
 ### Operating and investment cost sensitivity
 
